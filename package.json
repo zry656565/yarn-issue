@@ -1,0 +1,9 @@
+{
+  "name": "yarn-test",
+  "version": "0.1.0",
+  "description": "",
+  "devDependencies": {
+    "postcss": "5.1.2",
+    "stylelint": "6.8.0"
+  }
+}
